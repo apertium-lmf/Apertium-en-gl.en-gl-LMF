@@ -1,0 +1,16 @@
+Copying and Author information
+
+Resource name: English-Galician LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17109
+Licence: GPL
+
+Authors:
+
+() imaxin|software
+
+() Universitat Politècnica de Catalunya
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
